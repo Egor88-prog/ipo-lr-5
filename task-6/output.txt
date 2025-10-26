@@ -1,5 +1,5 @@
 1. sphto
 2. fm;oiesrjgo
-3. with open("task-6\\text.txt","r") as infile , open("task-6\\output.txt","w") as outfile:#открытие 
-4.     lines=infile.read()
-5.     outfile.write(lines)
+3. лпщыре швадрио
+4. вжногрщь
+5. вкишьирр

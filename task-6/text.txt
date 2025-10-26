@@ -1,5 +1,5 @@
 sphto
 fm;oiesrjgo
-with open("task-6\\text.txt","r") as infile , open("task-6\\output.txt","w") as outfile:#открытие 
-    lines=infile.read()
-    outfile.write(lines)
+лпщыре швадрио
+вжногрщь
+вкишьирр
